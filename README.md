@@ -2,7 +2,7 @@
 
 Run [Docker](http://docker.io/) inside Docker
 
-Link: [mattgruter/doubledocker](https://registry.hub.docker.com/u/mattgruter/doubledocker/)
+Link: [danggrianto/doubledocker-pi](https://registry.hub.docker.com/u/danggrianto/doubledocker-pi/)
 
 
 ## Permissions
@@ -17,7 +17,7 @@ The Docker daemon listens on the default socket and on port 2375.
 ## Example
 To run the doubledocker container simply write:
     
-    docker run --privileged -P mattgruter/doubledocker
+    docker run --privileged -P danggrianto/doubledocker-pi
 
 
 ## Use Cases

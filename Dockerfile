@@ -1,6 +1,6 @@
-FROM ubuntu
+FROM resin/rpi-raspbian
 
-MAINTAINER Matthias Grüter <matthias@grueter.name>
+MAINTAINER Daniel Anggrianto <d.anggrianto@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
